@@ -1,2 +1,7 @@
-target/
+/target/x86_64-apple-darwin
+/target/debug/build
+/target/debug/.fingerprint
+/target/debug/deps
+/target/debug/examples
+/target/debug/incremental
 build-typst-lib.sh
